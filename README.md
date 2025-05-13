@@ -1,0 +1,1 @@
+El análisis exploratorio realizado sobre el número de abonados a los centros deportivos municipales de la Comunidad de Madrid esta basado en conocer el dataset en base a seis columnas que iremos analizando para posteriormente analizarlas y responder a las hipotesis planteadas.
